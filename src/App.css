@@ -10,7 +10,7 @@ body{
      display: flex;
      justify-content: center;
      align-items: center;
-     background-image: url('Orange-Background.jpg');
+     background-image: url('https://github.com/Hamza042/React-Simple-Calculator-Application/blob/main/images/Orange-Background.jpg');
 }
 
 .container{
